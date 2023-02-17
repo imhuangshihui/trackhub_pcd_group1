@@ -1,4 +1,4 @@
-hub PCDHub
+hub PCDHubGroup1
 shortLabel PCD Hub Group1
 longLabel The hub of patients with PCD aged from 65 to 68
 genomesFile genomes.txt
