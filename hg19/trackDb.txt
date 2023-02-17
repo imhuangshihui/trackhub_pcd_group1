@@ -1,4 +1,4 @@
-track HK0144
+track HK0144_0YFU
 bigDataUrl HK0144_0YFU.sorted.bed.bw
 shortLabel HK0144_0YFU(age 70)
 longLabel HK0144_0YFU with 494 probes
@@ -6,7 +6,7 @@ type bigWig
 visibility full
 autoScale on
 
-track HK0144
+track HK0144_16YFU
 bigDataUrl HK0144_16YFU.sorted.bed.bw
 shortLabel HK0144_16YFU(age 70)
 longLabel HK0144_16YFU with 494 probes
@@ -15,7 +15,7 @@ visibility full
 autoScale on
 color 255,0,0
 
-track HK0170
+track HK0170_0YFU
 bigDataUrl HK0170_0YFU.sorted.bed.bw
 shortLabel HK0170_0YFU(age 70)
 longLabel HK0170_0YFU with 494 probes
@@ -23,7 +23,7 @@ type bigWig
 visibility full
 autoScale on
 
-track HK0170
+track HK0170_16YFU
 bigDataUrl HK0170_16YFU.sorted.bed.bw
 shortLabel HK0170_16YFU(age 70)
 longLabel HK0170_16YFU with 494 probes
@@ -32,7 +32,7 @@ visibility full
 autoScale on
 color 255,0,0
 
-track HK0539
+track HK0539_0YFU
 bigDataUrl HK0539_0YFU.sorted.bed.bw
 shortLabel HK0539_0YFU(age 66)
 longLabel HK0539_0YFU with 494 probes
@@ -40,7 +40,7 @@ type bigWig
 visibility full
 autoScale on
 
-track HK0539
+track HK0539_16YFU
 bigDataUrl HK0539_16YFU.sorted.bed.bw
 shortLabel HK0539_16YFU(age 66)
 longLabel HK0539_16YFU with 494 probes
@@ -49,7 +49,7 @@ visibility full
 autoScale on
 color 255,0,0
 
-track HK0558
+track HK0558_0YFU
 bigDataUrl HK0558_0YFU.sorted.bed.bw
 shortLabel HK0558_0YFU(age 66)
 longLabel HK0558_0YFU with 494 probes
@@ -57,7 +57,7 @@ type bigWig
 visibility full
 autoScale on
 
-track HK0558
+track HK0558_16YFU
 bigDataUrl HK0558_16YFU.sorted.bed.bw
 shortLabel HK0558_16YFU(age 66)
 longLabel HK0558_16YFU with 494 probes
