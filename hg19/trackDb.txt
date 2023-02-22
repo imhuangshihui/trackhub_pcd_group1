@@ -20,7 +20,7 @@ bigDataUrl HK1812.ratio.bed.bw
 shortLabel HK1812_16/0(age 65)
 longLabel HK1812_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ##########################################
@@ -46,7 +46,7 @@ bigDataUrl MS1754.ratio.bed.bw
 shortLabel MS1754_16/0(age 65)
 longLabel MS1754_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #############################################
@@ -72,7 +72,7 @@ bigDataUrl MS1996.ratio.bed.bw
 shortLabel MS1996_16/0(age 65)
 longLabel MS1996_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #############################################
@@ -98,7 +98,7 @@ bigDataUrl HK0558.ratio.bed.bw
 shortLabel HK0558_16/0(age 65)
 longLabel HK0558_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #############################################
@@ -124,7 +124,7 @@ bigDataUrl HK0539.ratio.bed.bw
 shortLabel HK0539_16/0(age 65)
 longLabel HK0539_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ###############################################
@@ -151,7 +151,7 @@ bigDataUrl HK1034.ratio.bed.bw
 shortLabel HK1034_16/0(age 65)
 longLabel HK1034_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ##################################################
@@ -178,7 +178,7 @@ bigDataUrl MS0248.ratio.bed.bw
 shortLabel MS0248_16/0(age 65)
 longLabel MS0248_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ###############################################
@@ -205,7 +205,7 @@ bigDataUrl MS0812.ratio.bed.bw
 shortLabel MS0812_16/0(age 65)
 longLabel MS0812_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #################################################
@@ -232,7 +232,7 @@ bigDataUrl MS1153.ratio.bed.bw
 shortLabel MS1153_16/0(age 65)
 longLabel MS1153_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ################################################
@@ -258,7 +258,7 @@ bigDataUrl MS1320.ratio.bed.bw
 shortLabel MS1320_16/0(age 65)
 longLabel MS1320_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ##################################################
@@ -285,7 +285,7 @@ bigDataUrl MS1323.ratio.bed.bw
 shortLabel MS1323_16/0(age 65)
 longLabel MS1323_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #################################################
@@ -312,7 +312,7 @@ bigDataUrl MS1812.ratio.bed.bw
 shortLabel MS1812_16/0(age 65)
 longLabel MS1812_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ##################################################
@@ -339,7 +339,7 @@ bigDataUrl HK0585.ratio.bed.bw
 shortLabel HK0585_16/0(age 65)
 longLabel HK0585_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ################################################
@@ -366,7 +366,7 @@ bigDataUrl MS0254.ratio.bed.bw
 shortLabel MS0254_16/0(age 65)
 longLabel MS0254_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #############################################
@@ -393,7 +393,7 @@ bigDataUrl MS1215.ratio.bed.bw
 shortLabel MS1215_16/0(age 65)
 longLabel MS1215_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ###############################################
@@ -420,7 +420,7 @@ bigDataUrl MS1721.ratio.bed.bw
 shortLabel MS1721_16/0(age 65)
 longLabel MS1721_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #################################################
@@ -447,7 +447,7 @@ bigDataUrl MS1927.ratio.bed.bw
 shortLabel MS1927_16/0(age 65)
 longLabel MS1927_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ###############################################
@@ -474,7 +474,7 @@ bigDataUrl HK0794.ratio.bed.bw
 shortLabel HK0794_16/0(age 65)
 longLabel HK0794_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 #############################################
@@ -501,7 +501,7 @@ bigDataUrl HK1820.ratio.bed.bw
 shortLabel HK1820_16/0(age 65)
 longLabel HK1820_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ############################################3
@@ -528,7 +528,7 @@ bigDataUrl MS1788.ratio.bed.bw
 shortLabel MS1788_16/0(age 65)
 longLabel MS1788_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 ################################################
@@ -555,7 +555,7 @@ bigDataUrl MS2003.ratio.bed.bw
 shortLabel MS2003_16/0(age 65)
 longLabel MS2003_16/0 with 494 probes
 type bigWig
-visibility hide
+visibility full
 autoScale on
 color 49,163,84
 
