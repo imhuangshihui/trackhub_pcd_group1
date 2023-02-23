@@ -307,10 +307,10 @@ visibility hide
 autoScale on
 color 255,0,0
 
-track MS1812_ratio
-bigDataUrl MS1812.ratio.bed.bw
-shortLabel MS1812_16/0(age 66)
-longLabel MS1812_16/0 with 494 probes
+track MS1995_ratio
+bigDataUrl MS1995.ratio.bed.bw
+shortLabel MS1995_16/0(age 66)
+longLabel MS1995_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
