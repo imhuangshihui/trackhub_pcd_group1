@@ -22,7 +22,7 @@ longLabel HK1812_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ##########################################
 track MS1754_0YFU
 bigDataUrl MS1754_0YFU.sorted.bed.bw
@@ -48,7 +48,7 @@ longLabel MS1754_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #############################################
 track MS1996_0YFU
 bigDataUrl MS1996_0YFU.sorted.bed.bw
@@ -74,7 +74,7 @@ longLabel MS1996_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #############################################
 track HK0558_0YFU
 bigDataUrl HK0558_0YFU.sorted.bed.bw
@@ -100,7 +100,7 @@ longLabel HK0558_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #############################################
 track HK0539_0YFU
 bigDataUrl HK0539_0YFU.sorted.bed.bw
@@ -126,7 +126,7 @@ longLabel HK0539_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ###############################################
 
 track HK1034_0YFU
@@ -153,7 +153,7 @@ longLabel HK1034_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ##################################################
 
 track MS0248_0YFU
@@ -180,7 +180,7 @@ longLabel MS0248_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ###############################################
 
 track MS0812_0YFU
@@ -207,7 +207,7 @@ longLabel MS0812_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #################################################
 
 track MS1153_0YFU
@@ -234,7 +234,7 @@ longLabel MS1153_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ################################################
 track MS1320_0YFU
 bigDataUrl MS1320_0YFU.sorted.bed.bw
@@ -260,7 +260,7 @@ longLabel MS1320_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ##################################################
 
 track MS1323_0YFU
@@ -287,7 +287,7 @@ longLabel MS1323_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #################################################
 
 track MS1995_0YFU
@@ -314,7 +314,7 @@ longLabel MS1995_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ##################################################
 
 track HK0585_0YFU
@@ -341,7 +341,7 @@ longLabel HK0585_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ################################################
 
 track MS0254_0YFU
@@ -368,7 +368,7 @@ longLabel MS0254_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #############################################
 
 track MS1215_0YFU
@@ -395,7 +395,7 @@ longLabel MS1215_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ###############################################
 
 track MS1721_0YFU
@@ -422,7 +422,7 @@ longLabel MS1721_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #################################################
 
 track MS1927_0YFU
@@ -449,7 +449,7 @@ longLabel MS1927_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ###############################################
 
 track HK0794_0YFU
@@ -476,9 +476,8 @@ longLabel HK0794_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 #############################################
-
 track HK1820_0YFU
 bigDataUrl HK1820_0YFU.sorted.bed.bw
 shortLabel HK1820_0YFU(age 68)
@@ -503,7 +502,7 @@ longLabel HK1820_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ############################################3
 
 track MS1788_0YFU
@@ -530,7 +529,7 @@ longLabel MS1788_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 197,27,138
 ################################################
 
 track MS2003_0YFU
@@ -557,5 +556,4 @@ longLabel MS2003_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
-
+color 197,27,138
